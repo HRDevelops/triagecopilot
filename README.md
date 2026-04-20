@@ -91,7 +91,7 @@ If you use this work, please cite:
 ```
 @misc{triagecopilot2026,
   title={TriageCoPilot: Multimodal Triage Decision Support with Clinical Interpretability and Equity Auditing},
-  author={[Your Name]},
+  author={Muhammad Husnain Rasool},
   year={2026},
   note={Triagegeist Competition, Laitinen-Fredriksson Foundation}
 }
